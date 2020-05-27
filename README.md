@@ -7,6 +7,7 @@ Transliteration is a type of conversion of a text from one script to another tha
 This script uses ISO 15919 Standard's transliteration guidelines for character conversions.
 
 # Usage
+Ensure that the terminal you are using to run this supports UTF-8 characters for displaying Hindi Characters.
   1. Clone or Download the repository.
   2. >python3 Hindi_Transliterator.py -s STRING
  This script uses Python 3 so make sure you have that installed beforehand.
